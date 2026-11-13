@@ -1,0 +1,31 @@
+id,fecha,servicio,calidad,atencion,tiempo_respuesta,claridad,solucion,satisfaccion_general,comentario
+1,2026-01-08,Atención al usuario,5,5,4,5,5,5,Atención clara y amable
+2,2026-01-15,Soporte técnico,4,5,4,4,4,4,Solución efectiva
+3,2026-01-22,Información,4,4,3,4,4,4,Información suficiente
+4,2026-02-05,Atención al usuario,5,4,5,5,5,5,Proceso rápido
+5,2026-02-12,Soporte técnico,3,4,3,4,3,3,Esperó un poco más de lo previsto
+6,2026-02-19,Información,4,4,4,4,4,4,Respuesta satisfactoria
+7,2026-03-03,Atención al usuario,5,5,5,5,5,5,Excelente experiencia
+8,2026-03-10,Soporte técnico,4,4,4,4,4,4,Personal dispuesto a ayudar
+9,2026-03-17,Información,3,3,3,4,3,3,Se puede mejorar la explicación
+10,2026-03-24,Atención al usuario,4,5,4,5,4,4,Buena atención
+11,2026-04-07,Soporte técnico,5,4,4,5,5,5,Problema resuelto
+12,2026-04-14,Información,4,4,3,4,4,4,Respuesta útil
+13,2026-04-21,Atención al usuario,5,5,4,5,5,5,Trato respetuoso
+14,2026-05-05,Soporte técnico,2,3,2,3,2,2,Demora en la respuesta
+15,2026-05-12,Información,4,4,4,3,4,4,Información comprensible
+16,2026-05-19,Atención al usuario,5,4,5,5,4,5,Servicio ágil
+17,2026-06-02,Soporte técnico,4,4,4,4,4,4,Atención adecuada
+18,2026-06-09,Información,3,4,3,3,3,3,Requiere más detalle
+19,2026-06-16,Atención al usuario,4,5,4,4,4,4,Experiencia positiva
+20,2026-07-07,Soporte técnico,5,5,4,5,5,5,Respuesta completa
+21,2026-07-14,Información,4,4,4,4,4,4,Proceso sencillo
+22,2026-08-04,Atención al usuario,5,5,5,5,5,5,Muy satisfecho
+23,2026-08-11,Soporte técnico,4,3,3,4,4,4,Se resolvió la solicitud
+24,2026-09-01,Información,3,3,2,3,3,3,Tiempo de respuesta mejorable
+25,2026-09-08,Atención al usuario,5,4,5,5,5,5,Excelente servicio
+26,2026-10-06,Soporte técnico,4,4,4,4,4,4,Servicio confiable
+27,2026-10-13,Información,4,4,3,4,4,4,Buena orientación
+28,2026-10-20,Atención al usuario,5,5,4,5,5,5,Atención excelente
+29,2026-11-03,Soporte técnico,3,4,3,3,3,3,La solución fue parcial
+30,2026-11-10,Información,4,5,4,4,4,4,Personal cordial
